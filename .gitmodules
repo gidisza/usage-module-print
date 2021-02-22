@@ -1,0 +1,3 @@
+[submodule "module-print-example"]
+	path = module-print-example
+	url = https://github.com/gidisza/module-print-example.git
